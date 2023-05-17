@@ -25,11 +25,12 @@ body {
     padding: 15px;
 }
 
-.header div a {
+.header .btn a {
     text-decoration: none;
     font-size: 15px;
     font-weight: 500;
     color: #fff;
+    text-align: center;
 }
 .img-container {
     margin: 20px 20px;
@@ -57,7 +58,6 @@ body {
         border-radius: 25px;
         background-color: rgb(73, 168, 231);
         padding: 15px;
-        text-align: center;
     }
 
   }
