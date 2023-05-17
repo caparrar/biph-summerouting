@@ -32,6 +32,7 @@ body {
     color: #fff;
     text-align: center;
 }
+
 .img-container {
     margin: 20px 20px;
 }
@@ -59,5 +60,6 @@ body {
         background-color: rgb(73, 168, 231);
         padding: 15px;
     }
+
 
   }
